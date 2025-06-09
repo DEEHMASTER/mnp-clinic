@@ -1,4 +1,4 @@
-## **Clinic's Patient Management System in PHP**
+## **mnp-cinic**
 ==========================================================
 
 ### Technologies
@@ -12,14 +12,9 @@
 ### **Developement Information**
 ==========================================================
 #### ** Original Version**
-- **Developed/Published By:** 	 Abid Elahi
-- **Uploaded/Published at:** [https://www.kashipara.com/project/php/8527/patient-management-system-updated-](https://www.kashipara.com/project/php/8527/patient-management-system-updated-) 
+- **Developed/Published By:** 	 deeh empire
 ==========================================================
-#### ** Modified Version**
-- **Modified By:** oretnom23
-- **Published at:** [https://sourcecodester.com/php-clinics-patient-management-system-source-code](https://sourcecodester.com/php-clinics-patient-management-system-source-code) 
 
-==========================================================
 #### **Modification Information**
 - Customize some of the User Interface (CSS)
 - Modified Some features UI
